@@ -1,0 +1,12 @@
+
+W
+java:S1161":Add the "@Override" annotation above this method signature(±¬ º8Ï§ÃØå0
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Äìå½8şùÄØå0
+\
+java:S1161":Add the "@Override" annotation above this method signature(ƒ¢´úÿÿÿÿ8ÛÑÃØå0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î±Ïüÿÿÿÿ8ÜÛÅØå0
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ğ¬¤œùÿÿÿÿ8æ…ÄØå0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“‹ß‰8ßÛÅØå0
+^
+java:S1128"ARemove this unused import 'javax.servlet.annotation.WebListener'.(úÖ­ï8ã­ÓØå0
